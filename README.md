@@ -1,24 +1,136 @@
-# 💫 About Me:
-# Hi there, I'm Tanathon Chanapha! 👋<br><br>I'm a senior **Data Science and Software Innovation** student passionate about building end-to-end data solutions. My expertise lies at the intersection of **Data Engineering**, **AI**, and **Full Stack Development**.<br><br>I enjoy designing scalable data pipelines, developing intelligent AI models, and building the software infrastructure to bring them to life.<br><br>- 🔭 **I’m currently working on:*Krones TH IT* 🌱 **I’m currently learning:** Cloud Architecture and Advanced MLOps.<br>- 💼 **I'm looking for:** Working opportunities as a **Data Engineer**, **AI Engineer**, or **Full Stack Developer**.<br>- 📫 **How to reach me:** [bostziller03x@gmail.com] or [Tel.0802648209]
+﻿<div align="center">
 
+# ⚡ Tanathon Chanapha (ZillerDX)
+### **Full-Stack & AI Systems Engineer**
+*Architecting Resilient Web Platforms, Cross-Platform Mobile Apps & Intelligent AI Systems*
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bostziller03x@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZillerDX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZillerDX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZillerDX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Available for Hire](https://img.shields.io/badge/Status-🟢_Open_to_Dev_Work-22c55e?style=for-the-badge&labelColor=0f172a)](mailto:bostziller03x@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bangkok%2C_Thailand_(UTC%2B7)-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a)](https://maps.google.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ZillerDX-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/ZillerDX)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZillerDX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZillerDX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+Senior **Data Science & Software Innovation** student with practical industry experience at **Krones TH IT**. I specialize in taking products from zero to production by combining **Modern Web Systems (Next.js 15, React 19, TypeScript)**, **Cross-Platform Mobile (Flutter & Dart)**, **Scalable Backends (Node.js, FastAPI, REST/WebSockets)**, and **Autonomous AI Workflows (Gemini API, MCP, RAG)**.
+
+- 💼 **Available For:** Full-time Software Engineering, Freelance MVP Development, Enterprise Systems & AI Agent Solutions.
+- 🎯 **Engineering Principles:** Clean architecture, predictable data flows, responsive UI/UX, and robust reliability.
+- 📬 **Direct Contact:** [bostziller03x@gmail.com](mailto:bostziller03x@gmail.com) • [Tel: +66 80 264 8209](tel:+66802648209)
+
+---
+
+### 💻 Tech Stack & Engineering Toolkit
+
+<table>
+  <tr>
+    <td width="24%"><strong>Core Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5/CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend & Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js_14%2F15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Data Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/MCP_Protocol-412991?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+      <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-FF6F00?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Pandas_%2F_NumPy-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git_%2F_GitHub_Actions-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Production Projects
+
+A selection of real-world enterprise platforms, AI applications, and developer tooling:
+
+| Project | Description | Core Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🌐 **Globepass Visa** | Global Visa & Consular AI Intelligence Web App (Bilingual TH/EN) delivering instant consular clearance analysis. | `Next.js` `TypeScript` `Python` `AI` | [View Repo ↗](https://github.com/ZillerDX/globepass-visa) |
+| 📦 **Optitrack WMS** | Enterprise Warehouse Management System & Digital Twin with real-time stock tracking and logistics telemetry. | `TypeScript` `Python` `Docker` `REST` | [View Repo ↗](https://github.com/ZillerDX/Optitrack-WMS) |
+| ⚡ **FieldOps Nexus** | End-to-end Field Service & Maintenance Platform with PWA prototype, production Flutter mobile app, and Node.js backend. | `Flutter` `Node.js` `MongoDB` `PWA` | [View Repo ↗](https://github.com/ZillerDX/field-service-platform) |
+| 🍽️ **QR Menu & Easy Order** | Local-first restaurant management & dine-in app connecting customer self-ordering to kitchen displays in real time. | `TypeScript` `React` `Tailwind` `WebSockets` | [View Repo ↗](https://github.com/ZillerDX/QR-Menu-Easy-Order) |
+| 🕵️ **SpyPrice** | Autonomous competitor price monitoring Chrome extension powered by Google Gemini API. | `JavaScript` `Gemini API` `Chrome Ext` | [View Repo ↗](https://github.com/ZillerDX/SpyPrice) |
+| 🤖 **Waterfall SDLC Skill** | Quality-gated 7-phase Software Development Life Cycle skill for autonomous AI coding agents (Antigravity/Cursor/Claude). | `AI Agents` `SDLC` `Architecture` | [View Repo ↗](https://github.com/ZillerDX/waterfall-sdlc-skill) |
+| 💳 **MicroSME POS** | Comprehensive Point of Sale (POS) and business operational suite built for small-to-medium retail enterprises. | `Flutter` `Dart` `SQLite` | [View Repo ↗](https://github.com/ZillerDX/MicroSME) |
+| 💸 **Subscription Graveyard** | Smart web application to track, analyze, and eliminate zombie subscriptions draining user finances. | `Next.js` `TypeScript` `Tailwind` | [View Repo ↗](https://github.com/ZillerDX/Subscription-Graveyard) |
+
+---
+
+### 📊 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://ghchart.rshah.org/22c55e/ZillerDX" alt="Tanathon's GitHub Contribution Chart" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ZillerDX&style=flat-square&color=22c55e&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public_Repos-15-3b82f6?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Production_Projects-8+-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Projects" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_for_Work-22c55e?style=flat-square&logo=codeigniter&logoColor=white" alt="Status" />
+</div>
+
+---
+
+### 🤝 Let's Build Something Exceptional
+
+Whether you need a **high-converting web application**, a **cross-platform mobile MVP**, an **internal enterprise dashboard**, or **custom AI / LLM workflows**, I'm ready to collaborate.
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/Email-bostziller03x%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bostziller03x@gmail.com)
+[![Call Me](https://img.shields.io/badge/Call-080--264--8209-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66802648209)
+[![GitHub](https://img.shields.io/badge/GitHub-@ZillerDX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZillerDX)
+
+<br/>
+
+<sub>Open for Full-Time Roles, Contract Engagements, and Freelance MVP Development</sub>
+
+</div>
