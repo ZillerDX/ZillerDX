@@ -47,9 +47,9 @@ Junior **Full Stack Developer** with enterprise IT experience at **Krones** (mul
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/C%23_14-239120?style=flat-square&logo=csharp&logoColor=white" alt="C# 14" />
+      <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Dart_3-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5/CSS3" />
     </td>
@@ -57,20 +57,21 @@ Junior **Full Stack Developer** with enterprise IT experience at **Krones** (mul
   <tr>
     <td><strong>Frontend & UI</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js_14%2F15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
+      <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 19" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
+      <img src="https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 6" />
+      <img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL2" />
     </td>
   </tr>
   <tr>
     <td><strong>Backend & Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Node.js_22_LTS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 22 LTS" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/.NET_10_LTS-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10 LTS" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
@@ -79,7 +80,7 @@ Junior **Full Stack Developer** with enterprise IT experience at **Krones** (mul
   <tr>
     <td><strong>Databases & Cloud</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 17" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git_%2F_GitHub_Actions-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -91,6 +92,7 @@ Junior **Full Stack Developer** with enterprise IT experience at **Krones** (mul
     <td><strong>Enterprise & AI Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="Copilot" />
+      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
       <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white" alt="Power Apps" />
       <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -104,14 +106,16 @@ Junior **Full Stack Developer** with enterprise IT experience at **Krones** (mul
 
 ### ⭐ Starred Repositories (Selected Work)
 
-Curated showcase of my starred repositories, highlighting full-stack engineering, enterprise workflow automation, and AI agent architectures:
+Curated showcase of my starred repositories, highlighting full-stack engineering, enterprise workflow automation, interactive ML laboratories, and AI agent architectures:
 
 | Project | Description | Core Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🍽️ **QR-Menu-Easy-Order** | Responsive, local-first restaurant management & dine-in app connecting customer self-ordering to kitchen displays in real time (zero app install required). | `TypeScript` `React` `Tailwind` `WebSockets` | [View Repo ⭐](https://github.com/ZillerDX/QR-Menu-Easy-Order) |
-| 📄 **ai-document-workflow** | Enterprise AI-powered document workflow and Segregation of Duties engine with cryptographic hash validation. | `.NET 9` `Angular` `C#` `WebCrypto` | [View Repo ⭐](https://github.com/ZillerDX/ai-document-workflow) |
-| ⚡ **ai-codebase-intelligence** | CodePulse — Autonomous AI codebase intelligence and architecture telemetry platform with local client-side analysis. | `.NET 9` `Angular 19` `TypeScript` `Pages` | [View Repo ⭐](https://github.com/ZillerDX/ai-codebase-intelligence) |
-| 🌐 **globepass-visa** | Global Visa & Consular AI Intelligence Web App (Bilingual TH/EN) delivering instant consular clearance analysis and travel insights. | `Next.js` `TypeScript` `Python` `AI` | [View Repo ⭐](https://github.com/ZillerDX/globepass-visa) |
+| 🍽️ **QR-Menu-Easy-Order** | Responsive, local-first restaurant management & dine-in app connecting customer self-ordering to kitchen displays in real time (zero app install required). | `TypeScript` `React 19` `Tailwind` `WebSockets` | [View Repo ⭐](https://github.com/ZillerDX/QR-Menu-Easy-Order) |
+| 📄 **ai-document-workflow** | Enterprise AI-powered document workflow and Segregation of Duties engine with cryptographic hash validation. | `.NET 10` `Angular 19` `C# 14` `WebCrypto` | [View Repo ⭐](https://github.com/ZillerDX/ai-document-workflow) |
+| ⚡ **ai-codebase-intelligence** | CodePulse — Autonomous AI codebase intelligence and architecture telemetry platform with local client-side analysis. | `.NET 10` `Angular 19` `TypeScript` `Pages` | [View Repo ⭐](https://github.com/ZillerDX/ai-codebase-intelligence) |
+| 🧪 **ml-model-playground** | Zero-friction, in-browser interactive machine learning laboratory exploring gradient descent trajectories and decision boundaries. | `TensorFlow.js` `TypeScript` `React 18` `Vite` | [View Repo ⭐](https://github.com/ZillerDX/ml-model-playground) |
+| 🎨 **math-generative-art-studio** | Axiom — Real-time WebGL2 shader laboratory bridging pure mathematics with generative visual art and procedural rendering. | `WebGL2` `GLSL` `TypeScript` `React` | [View Repo ⭐](https://github.com/ZillerDX/math-generative-art-studio) |
+| 🌐 **globepass-visa** | Global Visa & Consular AI Intelligence Web App (Bilingual TH/EN) delivering instant consular clearance analysis and travel insights. | `Next.js 15` `TypeScript` `Python` `AI` | [View Repo ⭐](https://github.com/ZillerDX/globepass-visa) |
 | 🤖 **waterfall-sdlc-skill** | Quality-gated 7-phase Software Development Life Cycle skill for autonomous AI coding agents (Antigravity, Cursor, Claude Code). | `AI Agents` `SDLC` `Architecture` | [View Repo ⭐](https://github.com/ZillerDX/waterfall-sdlc-skill) |
 | 📦 **Optitrack-WMS** | High-performance Warehouse Management System & Digital Twin with real-time stock telemetry and automated logistics. | `TypeScript` `Python` `Docker` `REST` | [View Repo ⭐](https://github.com/ZillerDX/Optitrack-WMS) |
 
@@ -124,9 +128,9 @@ Curated showcase of my starred repositories, highlighting full-stack engineering
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ZillerDX&style=flat-square&color=22c55e&label=Profile+Views" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-15-3b82f6?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Public_Repos-20-3b82f6?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Starred_Showcase-6_Repos-yellow?style=flat-square&logo=apachespark&logoColor=black" alt="Starred Repos" />
+  <img src="https://img.shields.io/badge/Starred_Showcase-8_Repos-yellow?style=flat-square&logo=apachespark&logoColor=black" alt="Starred Repos" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_for_Work-22c55e?style=flat-square&logo=codeigniter&logoColor=white" alt="Status" />
 </div>
