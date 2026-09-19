@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚡ Tanathon Chanapha (ZillerDX)
 ### **Junior Full Stack Developer & AI Systems Engineer**
@@ -23,7 +23,7 @@ Junior **Full Stack Developer** with enterprise IT experience at **Krones** (mul
 - 💼 **Hands-on Experience:** Building production-grade end-to-end web applications including front-end, back-end, REST APIs, databases, secure authentication, and payment integrations.
 - 🏢 **Enterprise IT Background:** 10+ months at **Krones** developing enterprise solutions using Microsoft Power Apps, Power Automate, SharePoint, VBScript, Power BI, and Microsoft Copilot.
 - 🌐 **Communication:** Able to communicate effectively in English and committed to continuous learning in full-stack architecture and agentic AI.
-- 📬 **Direct Contact:** [chanapha.tanathon@gmail.com](mailto:chanapha.tanathon@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tanathon-chanapha-452177427) • [JobsDB](https://th.jobsdb.com/profiles/tanathon-chanapha-R26rW062z5) • [Tel: +66 80 264 8209](tel:+66802648209)
+- 📬 **Direct Contact:** [chanapha.tanathon@gmail.com](mailto:chanapha.tanathon@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tanathon-chanapha-452177427) • [JobsDB](https://th.jobsdb.com/profiles/tanathon-chanapha-R26rW062z5) • [Tel: +66 63 445 3658](tel:+66634453658)
 
 ---
 
@@ -146,7 +146,7 @@ Looking for a **Junior Full Stack Developer** or **AI Systems Engineer** who can
 [![Email Me](https://img.shields.io/badge/Email-chanapha.tanathon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanapha.tanathon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanathon_Chanapha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanathon-chanapha-452177427)
 [![JobsDB](https://img.shields.io/badge/JobsDB-View_Profile-002D62?style=for-the-badge&logo=googlechrome&logoColor=white)](https://th.jobsdb.com/profiles/tanathon-chanapha-R26rW062z5)
-[![Call Me](https://img.shields.io/badge/Call-080--264--8209-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66802648209)
+[![Call Me](https://img.shields.io/badge/Call-063--445--3658-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66634453658)
 [![GitHub](https://img.shields.io/badge/GitHub-@ZillerDX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZillerDX)
 
 <br/>
