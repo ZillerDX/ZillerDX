@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Tanathon Chanapha (ZillerDX)
+#  Tanathon Chanapha (ZillerDX)
 ### **Junior Full Stack Developer & AI Systems Engineer**
 *Building End-to-End Web Applications, Business Automation & Practical AI Solutions*
 
