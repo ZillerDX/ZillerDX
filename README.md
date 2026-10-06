@@ -1,156 +1,21 @@
-<div align="center">
+# Tanathon Chanapha
 
-#  Tanathon Chanapha (ZillerDX)
-### **Junior Full Stack Developer & AI Systems Engineer**
-*Building End-to-End Web Applications, Business Automation & Practical AI Solutions*
+**Software Engineer · .NET · Angular · React · AI integration** — Bangkok, Thailand
+Available for full-time Software Engineer / AI Engineer roles.
 
-<br/>
+[Portfolio](https://portfolio-tanathon.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tanathon-chanapha-452177427) · [JobsDB](https://th.jobsdb.com/th/profiles/tanathon-chanapha-R26rW062z5) · [chanapha.tanathon@gmail.com](mailto:chanapha.tanathon@gmail.com)
 
-[![Available for Hire](https://img.shields.io/badge/Status-🟢_Open_to_Dev_Work-22c55e?style=for-the-badge&labelColor=0f172a)](mailto:chanapha.tanathon@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/tanathon-chanapha-452177427)
-[![JobsDB Profile](https://img.shields.io/badge/JobsDB-Resume-002D62?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a)](https://th.jobsdb.com/profiles/tanathon-chanapha-R26rW062z5)
-[![Location](https://img.shields.io/badge/Location-Bangkok%2C_Thailand_(กรุงเทพมหานคร)-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a)](https://maps.google.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ZillerDX-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/ZillerDX)
+## About
+- IT Intern at Krones (Dec 2025 – Sep 2026): delivered an internal business app for Krones Australia (Power Apps, Power Automate, SharePoint) from requirements to production and documentation; led 8 bilingual Copilot / AI workshops.
+- Software projects below are self-taught personal projects, deployed and open source.
+- BSc Data Science and Software Innovation, Ubon Ratchathani University (2026).
 
-</div>
+## Selected projects
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **QueueFlow** | Real-time queue management with concurrency-safe ticket dispatch (PostgreSQL `SKIP LOCKED`), xUnit concurrency tests | .NET 10, Angular 19, SignalR | [Demo](https://queueflow-wheat.vercel.app) · [Code](https://github.com/ZillerDX/QueueFlow) |
+| **ai-document-workflow** | Document approval with segregation of duties; Gemini OCR extracts invoice fields | .NET, Angular 19, Gemini | [Demo](https://zillerdx.github.io/ai-document-workflow/) · [Code](https://github.com/ZillerDX/ai-document-workflow) |
+| **CodePulse** | Codebase analysis: AST heuristics + Gemini; CI on GitHub Actions | .NET, Angular 19, Gemini | [Demo](https://zillerdx.github.io/ai-codebase-intelligence/) · [Code](https://github.com/ZillerDX/ai-codebase-intelligence) |
+| **Jodnoi** | Offline-first income/expense PWA, data stays on device | React 19, Dexie, Recharts | [Demo](https://jodnoi.jodnoi.workers.dev) · [Code](https://github.com/ZillerDX/jodnoi) |
 
----
-
-### 🚀 About Me
-
-Junior **Full Stack Developer** with enterprise IT experience at **Krones** (multinational packaging & bottling systems company). I specialize in developing internal applications, automating complex business processes, analyzing operational data, and exploring practical AI integrations.
-
-- 💼 **Hands-on Experience:** Building production-grade end-to-end web applications including front-end, back-end, REST APIs, databases, secure authentication, and payment integrations.
-- 🏢 **Enterprise IT Background:** 10+ months at **Krones** developing enterprise solutions using Microsoft Power Apps, Power Automate, SharePoint, VBScript, Power BI, and Microsoft Copilot.
-- 🌐 **Communication:** Able to communicate effectively in English and committed to continuous learning in full-stack architecture and agentic AI.
-- 📬 **Direct Contact:** [chanapha.tanathon@gmail.com](mailto:chanapha.tanathon@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tanathon-chanapha-452177427) • [JobsDB](https://th.jobsdb.com/profiles/tanathon-chanapha-R26rW062z5) • [Tel: +66 63 445 3685](tel:+66634453685)
-
----
-
-### 💼 Professional Experience
-
-#### **Information Technology Intern** — [Krones](https://www.krones.com)
-*Dec 2025 – Present • Bangkok, Thailand*
-- **Application & Automation Engineering:** Developed and supported internal business applications and automated workflows using Microsoft Power Apps, Power Automate, SharePoint, and VBScript.
-- **Business Intelligence & Analytics:** Built interactive executive reports and performed data analysis using Microsoft Power BI and Excel to drive data-backed business decisions.
-- **AI & Copilot Integration:** Applied Microsoft Copilot and AI capabilities to enhance operational process efficiency and reduce manual overhead.
-- **Tech Research & Innovation:** Researched, evaluated, and proposed new AI and modern technology use cases with weekly progress briefings to cross-functional teams.
-- **IT Help Desk Operations:** Provided tier-1/2 IT support troubleshooting hardware, workstations, monitors, software configurations, and enterprise system integrity.
-
----
-
-### 💻 Tech Stack & Engineering Toolkit
-
-<table>
-  <tr>
-    <td width="24%"><strong>Core Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C%23_14-239120?style=flat-square&logo=csharp&logoColor=white" alt="C# 14" />
-      <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Dart_3-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5/CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend & UI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
-      <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 19" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
-      <img src="https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 6" />
-      <img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL2" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js_22_LTS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 22 LTS" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/.NET_10_LTS-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10 LTS" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Cloud</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 17" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git_%2F_GitHub_Actions-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Enterprise & AI Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="Copilot" />
-      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-      <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white" alt="Power Apps" />
-      <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-      <img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-    </td>
-  </tr>
-</table>
-
----
-
-### ⭐ Starred Repositories (Selected Work)
-
-Curated showcase of my starred repositories, highlighting full-stack engineering, enterprise workflow automation, interactive ML laboratories, and AI agent architectures:
-
-| Project | Description | Core Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 🍽️ **QR-Menu-Easy-Order** | Responsive, local-first restaurant management & dine-in app connecting customer self-ordering to kitchen displays in real time (zero app install required). | `TypeScript` `React 19` `Tailwind` `WebSockets` | [View Repo ⭐](https://github.com/ZillerDX/QR-Menu-Easy-Order) |
-| 📄 **ai-document-workflow** | Enterprise AI-powered document workflow and Segregation of Duties engine with cryptographic hash validation. | `.NET 10` `Angular 19` `C# 14` `WebCrypto` | [View Repo ⭐](https://github.com/ZillerDX/ai-document-workflow) |
-| ⚡ **ai-codebase-intelligence** | CodePulse — Autonomous AI codebase intelligence and architecture telemetry platform with local client-side analysis. | `.NET 10` `Angular 19` `TypeScript` `Pages` | [View Repo ⭐](https://github.com/ZillerDX/ai-codebase-intelligence) |
-| 🧪 **ml-model-playground** | Zero-friction, in-browser interactive machine learning laboratory exploring gradient descent trajectories and decision boundaries. | `TensorFlow.js` `TypeScript` `React 18` `Vite` | [View Repo ⭐](https://github.com/ZillerDX/ml-model-playground) |
-| 🎨 **math-generative-art-studio** | Axiom — Real-time WebGL2 shader laboratory bridging pure mathematics with generative visual art and procedural rendering. | `WebGL2` `GLSL` `TypeScript` `React` | [View Repo ⭐](https://github.com/ZillerDX/math-generative-art-studio) |
-| 🌐 **globepass-visa** | Global Visa & Consular AI Intelligence Web App (Bilingual TH/EN) delivering instant consular clearance analysis and travel insights. | `Next.js 15` `TypeScript` `Python` `AI` | [View Repo ⭐](https://github.com/ZillerDX/globepass-visa) |
-| 🤖 **waterfall-sdlc-skill** | Quality-gated 7-phase Software Development Life Cycle skill for autonomous AI coding agents (Antigravity, Cursor, Claude Code). | `AI Agents` `SDLC` `Architecture` | [View Repo ⭐](https://github.com/ZillerDX/waterfall-sdlc-skill) |
-| 📦 **Optitrack-WMS** | High-performance Warehouse Management System & Digital Twin with real-time stock telemetry and automated logistics. | `TypeScript` `Python` `Docker` `REST` | [View Repo ⭐](https://github.com/ZillerDX/Optitrack-WMS) |
-
----
-
-### 📊 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/22c55e/ZillerDX" alt="Tanathon's GitHub Contribution Chart" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ZillerDX&style=flat-square&color=22c55e&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-20-3b82f6?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Starred_Showcase-8_Repos-yellow?style=flat-square&logo=apachespark&logoColor=black" alt="Starred Repos" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_for_Work-22c55e?style=flat-square&logo=codeigniter&logoColor=white" alt="Status" />
-</div>
-
----
-
-### 🤝 Let's Build Something Exceptional
-
-Looking for a **Junior Full Stack Developer** or **AI Systems Engineer** who can bridge modern web technologies with enterprise business processes? I'm available for full-time opportunities and impactful dev projects.
-
-<div align="center">
-
-[![Email Me](https://img.shields.io/badge/Email-chanapha.tanathon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanapha.tanathon@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanathon_Chanapha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanathon-chanapha-452177427)
-[![JobsDB](https://img.shields.io/badge/JobsDB-View_Profile-002D62?style=for-the-badge&logo=googlechrome&logoColor=white)](https://th.jobsdb.com/profiles/tanathon-chanapha-R26rW062z5)
-[![Call Me](https://img.shields.io/badge/Call-063--445--3685-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+66634453685)
-[![GitHub](https://img.shields.io/badge/GitHub-@ZillerDX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZillerDX)
-
-<br/>
-
-<sub>Bangkok, Thailand • Open for Full-Time Roles & Development Engagements</sub>
-
-</div>
+More: [EquipLend](https://github.com/ZillerDX/equiplend), [DeskFlow](https://github.com/ZillerDX/deskflow), [GlobePass](https://github.com/ZillerDX/globepass-visa), [OptiTrack WMS](https://github.com/ZillerDX/Optitrack-WMS).
