@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Tanathon Chanapha, Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#101a33"/>
+      <stop offset="1" stop-color="#1a1650"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="14" fill="url(#grid)"/>
+  <circle cx="900" cy="40" r="150" fill="#6366f1" fill-opacity="0.12"/>
+  <circle cx="990" cy="250" r="110" fill="#38bdf8" fill-opacity="0.10"/>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="60" y="64" font-size="14" fill="#7dd3fc" letter-spacing="3" font-family="Consolas, Courier New, monospace">&lt;SOFTWARE ENGINEER /&gt;</text>
+    <text x="60" y="130" font-size="54" font-weight="700" fill="#f8fafc">Tanathon Chanapha</text>
+    <rect x="62" y="148" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="60" y="190" font-size="22" fill="#cbd5e1">End-to-end web platforms and AI-powered workflows</text>
+    <text x="60" y="224" font-size="16" fill="#94a3b8" letter-spacing="1">.NET  ·  React  ·  Angular  ·  Python  ·  SQL  ·  LLM integration</text>
+  </g>
+</svg>
