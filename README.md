@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZillerDX/ZillerDX/main/assets/banner.svg" alt="Tanathon Chanapha, Software Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/ZillerDX/ZillerDX/main/assets/banner.svg" alt="Tanathon Chanapha, Full Stack Developer" width="100%" />
 
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Open_to_work-22c55e?style=for-the-badge&labelColor=0f172a)
 ![Location](https://img.shields.io/badge/Bangkok-Ready_to_relocate-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a)
-![Role](https://img.shields.io/badge/Role-Software_Engineer_%7C_AI_Engineer-8b5cf6?style=for-the-badge&labelColor=0f172a)
+![Role](https://img.shields.io/badge/Role-Full_Stack_Developer_%7C_AI_Integration-8b5cf6?style=for-the-badge&labelColor=0f172a)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## About
 
-- Software engineer focused on **end-to-end web platforms**: database design, APIs, responsive front ends and deployment.
+- Full stack developer focused on **end-to-end web platforms**: database design, APIs, responsive front ends and deployment.
 - Integrate **LLM features into real workflows**, with graceful fallbacks when a model or provider is unavailable.
 - Delivered an internal business application for Krones Australia (requirements to production and documentation) and led 8 bilingual AI workshops.
 - BSc Data Science and Software Innovation, Ubon Ratchathani University (2022 - 2026).
